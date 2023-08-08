@@ -1,2 +1,2 @@
-# sampler-personal-site
+# sample-personal-site
 my initital persoal site
